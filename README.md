@@ -39,4 +39,4 @@ In case 1 it would be more dangerous for a person to not receive the treatment e
      (Hyperparameter)        0.1        0.70      0.82
  
  ### Result :
-     ##### As we can see case 1 is more problematic which is False Negative, so in these scenario recall score  should be high. Logistic is having  high recall score than any other model. We can say Logistic regression is a better model for further predictions.
+ #### As we can see case 1 is more problematic which is False Negative, so in these scenario recall score  should be high. Logistic is having  high recall score than any other model. We can say Logistic regression is a better model for further predictions.
